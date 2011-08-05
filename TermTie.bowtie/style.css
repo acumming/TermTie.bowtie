@@ -1,0 +1,22 @@
+body {
+	color: #ddd;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+#title, #artist, #album, #rating {
+	display: inline;
+	font-family: Monaco, monospace;
+	font-size:10px;
+	text-transform: uppercase;
+}
+
+#progress-bar {
+	height: 7px;
+}
+
+.time-remaining, .blank {
+	color: #333;
+}
