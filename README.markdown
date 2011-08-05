@@ -2,6 +2,8 @@
 
 A [Bowtie](http://bowtieapp.com) theme inspired by the terminal.
 
+![Screenshot](https://github.com/acumming/TermTie.bowtie/raw/master/TermTie.bowtie/preview.png "Screenshot of theme")
+
 # Installation
 
 1. Clone the git repository
